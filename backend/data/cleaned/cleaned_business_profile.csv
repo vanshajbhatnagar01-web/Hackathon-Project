@@ -1,0 +1,2 @@
+business_id,business_name,category,business_type,city,country,currency,average_order_value,opening_hours,operating_days,monthly_marketing_budget,seating_capacity,number_of_employees,order_channels,primary_customer_group,business_goals,data_type
+CAFE001,Cafe Nova,Cafe / Restaurant,Independent local cafe,Delhi,India,INR,220,09:00-22:00,Monday-Sunday,8000,32,6,"Dine-in, Takeaway","College students, young professionals, nearby residents","Increase repeat visits, improve peak-hour service, grow sales of popular products",Synthetic demonstration profile

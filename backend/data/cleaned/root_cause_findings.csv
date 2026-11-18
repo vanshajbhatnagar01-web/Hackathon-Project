@@ -1,0 +1,12 @@
+finding_type,product,evidence,recommendation,priority
+Low Customer Rating,French Fries,Average rating: 3.42/5 from 69 reviews,"Investigate product quality, preparation and customer feedback.",High
+High Revenue Product,Cold Coffee,"Revenue: Rs. 204588.00, quantity sold: 1139",Monitor stock availability and maintain product quality.,Opportunity
+High Revenue Product,Grilled Cheese Sandwich,"Revenue: Rs. 147456.00, quantity sold: 821",Monitor stock availability and maintain product quality.,Opportunity
+High Revenue Product,Paneer Wrap,"Revenue: Rs. 143450.00, quantity sold: 756",Monitor stock availability and maintain product quality.,Opportunity
+High Revenue Product,Cappuccino,"Revenue: Rs. 143445.00, quantity sold: 958",Monitor stock availability and maintain product quality.,Opportunity
+High Revenue Product,Iced Latte,"Revenue: Rs. 137972.00, quantity sold: 813",Monitor stock availability and maintain product quality.,Opportunity
+Customer Complaint Theme,All Products,Food Quality keywords appeared in 41 low-rated reviews,Review customer feedback related to food quality.,High
+Customer Complaint Theme,All Products,Service keywords appeared in 47 low-rated reviews,Review customer feedback related to service.,High
+Customer Complaint Theme,All Products,Waiting Time keywords appeared in 28 low-rated reviews,Review customer feedback related to waiting time.,High
+Customer Complaint Theme,All Products,Price keywords appeared in 35 low-rated reviews,Review customer feedback related to price.,High
+Customer Complaint Theme,All Products,Cleanliness keywords appeared in 45 low-rated reviews,Review customer feedback related to cleanliness.,High

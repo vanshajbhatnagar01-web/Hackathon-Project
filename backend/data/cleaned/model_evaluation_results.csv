@@ -1,0 +1,6 @@
+model,evaluation_metric,result,unit
+Sentiment Analysis,Accuracy,95.5,%
+Demand Forecasting - Revenue,MAE,1249.98,INR
+Demand Forecasting - Revenue,RMSE,1459.91,INR
+Demand Forecasting - Quantity,MAE,6.76,Items
+Demand Forecasting - Quantity,RMSE,8.23,Items
