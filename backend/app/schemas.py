@@ -1,4 +1,4 @@
-from datetime import date, datetime
+from datetime import date as Date, datetime
 from typing import List, Optional
 from pydantic import BaseModel, Field, ConfigDict
 
@@ -70,7 +70,7 @@ class SalesSummaryResponse(BaseModel):
 
 
 class DailySalesTrendItem(BaseModel):
-    date: date
+    date: Date
     daily_revenue: float
     daily_quantity: int
 
@@ -95,7 +95,7 @@ class ReviewItemResponse(BaseModel):
 
     id: int
     review_id: str
-    date: Optional[date] = None
+    date: Optional[Date] = None
     rating: float
     review_text: str
     product: Optional[str] = None
@@ -125,7 +125,7 @@ class ForecastDayItem(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
     id: int
-    forecast_date: date
+    forecast_date: Date
     predicted_revenue: float
     predicted_quantity: float
     model_name: Optional[str] = None
